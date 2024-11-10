@@ -14,8 +14,8 @@ int sensorvalue = 0;
 
 
 
-const int valAir = 1550;
-const int valWater = 1065;
+const int valAir = 1437;
+const int valWater = 1106;
 
 void setup() {
   Serial.begin(9600);               // Initialize serial communication
